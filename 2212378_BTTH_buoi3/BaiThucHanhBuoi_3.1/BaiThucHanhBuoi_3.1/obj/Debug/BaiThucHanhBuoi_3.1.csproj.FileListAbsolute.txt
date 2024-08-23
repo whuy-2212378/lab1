@@ -1,0 +1,10 @@
+Z:\2212378_BTTH_buoi3\BaiThucHanhBuoi_3.1\BaiThucHanhBuoi_3.1\bin\Debug\BaiThucHanhBuoi_3.1.exe.config
+Z:\2212378_BTTH_buoi3\BaiThucHanhBuoi_3.1\BaiThucHanhBuoi_3.1\bin\Debug\BaiThucHanhBuoi_3.1.exe
+Z:\2212378_BTTH_buoi3\BaiThucHanhBuoi_3.1\BaiThucHanhBuoi_3.1\bin\Debug\BaiThucHanhBuoi_3.1.pdb
+Z:\2212378_BTTH_buoi3\BaiThucHanhBuoi_3.1\BaiThucHanhBuoi_3.1\obj\Debug\BaiThucHanhBuoi_3.1.csproj.AssemblyReference.cache
+Z:\2212378_BTTH_buoi3\BaiThucHanhBuoi_3.1\BaiThucHanhBuoi_3.1\obj\Debug\BaiThucHanhBuoi_3._1.MainForm.resources
+Z:\2212378_BTTH_buoi3\BaiThucHanhBuoi_3.1\BaiThucHanhBuoi_3.1\obj\Debug\BaiThucHanhBuoi_3._1.Properties.Resources.resources
+Z:\2212378_BTTH_buoi3\BaiThucHanhBuoi_3.1\BaiThucHanhBuoi_3.1\obj\Debug\BaiThucHanhBuoi_3.1.csproj.GenerateResource.cache
+Z:\2212378_BTTH_buoi3\BaiThucHanhBuoi_3.1\BaiThucHanhBuoi_3.1\obj\Debug\BaiThucHanhBuoi_3.1.csproj.CoreCompileInputs.cache
+Z:\2212378_BTTH_buoi3\BaiThucHanhBuoi_3.1\BaiThucHanhBuoi_3.1\obj\Debug\BaiThucHanhBuoi_3.1.exe
+Z:\2212378_BTTH_buoi3\BaiThucHanhBuoi_3.1\BaiThucHanhBuoi_3.1\obj\Debug\BaiThucHanhBuoi_3.1.pdb
